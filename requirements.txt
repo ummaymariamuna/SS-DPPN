@@ -1,0 +1,18 @@
+torch>=1.12.0
+torchaudio>=0.12.0
+torchvision>=0.13.0
+numpy>=1.21.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+librosa>=0.9.0
+h5py>=3.7.0
+pandas>=1.4.0
+tqdm>=4.62.0
+seaborn>=0.11.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed:
+# geomloss>=0.2.4  # For efficient Wasserstein distance calculation
+# umap-learn>=0.5.3  # For UMAP dimensionality reduction
+# statsmodels>=0.13.0  # For McNemar test and statistical analysis
